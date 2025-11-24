@@ -1,6 +1,6 @@
 ---
-title: FAQ
-description: How can we help you?
+title: Developers
+description: Documentation for developing with us
 github: https://github.com/zaimea/zaimea-developers/edit/main/
 onThisArticle: true
 sidebar: true
