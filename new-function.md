@@ -1,7 +1,7 @@
 ---
 title: New function Pattern
 description: How can implement a new function on our package
-github: https://github.com/zaimea/developers-docs/edit/main/
+github: https://github.com/zaimea/zaimea-developers/edit/main/
 onThisArticle: true
 sidebar: true
 rightbar: true
