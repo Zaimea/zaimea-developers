@@ -1,3 +1,4 @@
+- [Developers](/docs/developers/{{version}}/index)
 
 - ## Pattern
-    - [New function](/docs/new-function)
+    - [New function](/docs/developers/{{version}}/new-function)
